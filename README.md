@@ -8,6 +8,6 @@ Desafio Dio: Construindo um app utilizando o sensor de movimento com React Nativ
 
 ##Conteúdo
 
-Libs:
-expo-shake
-expo-native-torch
+- libs
+- expo-shake
+- expo-native-torch
